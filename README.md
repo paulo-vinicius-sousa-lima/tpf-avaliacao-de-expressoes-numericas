@@ -9,8 +9,11 @@ Este trabalho prático tem por objetivo desenvolver um programa em linguagem C c
 O código-fonte deve ser capaz de:
 
 ✅ A) Traduzir a expressão da notação **infixada para pós-fixada**
+
 ✅ B) Traduzir a expressão da notação **pós-fixada para infixada**
+
 ✅ C) Suportar operações binárias com: `+`, `-`, `*`, `/`, `%`, `^`
+
 ✅ D) Suportar operações unárias com:
 
 * `raiz` → raiz quadrada
@@ -20,7 +23,9 @@ O código-fonte deve ser capaz de:
 * `log` → logaritmo de base 10
 
 ✅ E) As funções `sen`, `cos` e `tg` devem receber **arcos em graus**
+
 ✅ F) Operações do item D aplicam-se a apenas **um operando**
+
 ✅ G) Avaliar expressões para obter valores conforme a tabela de testes abaixo
 
 ---
